@@ -20,4 +20,4 @@ A job board API built with Laravel and Vue.js, Vuex &amp; Vue-Router with Vuetif
 https://github.com/rafaelogic/RESTful-API-and-SPA-Boiler
 
 
-###### Note: database in Laravel was not include intentionaly as it is currently in used in a live project 
+###### Note: database in Laravel was not included intentionaly as it is currently in used in a live project 
