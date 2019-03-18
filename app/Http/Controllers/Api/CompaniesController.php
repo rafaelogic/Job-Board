@@ -24,7 +24,7 @@ class CompaniesController extends Controller
 
     public function store(Request $request, Company $company)
     {
-        $com = $category->create($this->companyData($request->name, $request->city));
+        $com = $company->create($this->companyData($request->name, $request->city));
 
         return response()->json([
             'company' => $com
